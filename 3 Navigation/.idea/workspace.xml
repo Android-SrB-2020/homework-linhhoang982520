@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeddf7e6-1f30-41ec-beb0-4ae2fd14c14f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/androidTest/java/work/nbcc/colormyviews/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/java/work/nbcc/colormyviews/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/app/src/test/java/work/nbcc/colormyviews/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 Layouts/Exercise2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2 Layouts/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/androidTest/java/work/nbcc/aboutme/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/java/work/nbcc/aboutme/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/font/roboto.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/app/src/test/java/work/nbcc/aboutme/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Layouts/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="95" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3 Navigation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3 Navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3 Navigation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3 Navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="AndroidTriviaFragment" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AndroidTriviaFragment" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeddf7e6-1f30-41ec-beb0-4ae2fd14c14f" name="Default Changelist" comment="" />
+      <created>1581343964792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581343964792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980832" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
